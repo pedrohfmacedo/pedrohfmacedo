@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on Embededd Lab in UFCG Embedded Systems
 - 🌱 I’m currently learning Embedded Systems, Digital Hardware Design and Verification Functional
 - 📫 How to reach me: pedro.henrique.macedo@ee.ufcg.edu.br
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohfmacedo&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfmacedo&hide_progress=true)
 
