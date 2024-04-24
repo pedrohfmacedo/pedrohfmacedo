@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Embedded Systems, Digital Hardware Design and Verification Functional
 - 📫 How to reach me: pedro.henrique.macedo@ee.ufcg.edu.br
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohfmacedo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 ### Contact me
 <div style="display: inline_block"><br>
