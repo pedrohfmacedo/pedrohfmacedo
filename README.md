@@ -16,7 +16,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-## Eda Tools
+## EDA Tools
 ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge)
 ![Synopsys](https://img.shields.io/badge/Synopsys-003366?style=for-the-badge)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-2C3E50?style=for-the-badge&logo=verilog&logoColor=white)
