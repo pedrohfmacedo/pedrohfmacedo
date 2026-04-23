@@ -21,7 +21,7 @@
 ![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-2C3E50?style=for-the-badge&logo=verilog&logoColor=white)
 
 ## Licenses and Certifications
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <a href="https://www.credly.com/users/opedromacedo" target="_blank">
     <img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
   </a>
@@ -30,7 +30,7 @@
 ### GitHub Stats
 <div>
   <a href="https://github.com/pedrohfmacedo">
-    <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api?username=pedrohfmacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api/top-langs/?username=pedrohfmacedo&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api?username=pedrohfmacedo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api/top-langs/?username=pedrohfmacedo&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
