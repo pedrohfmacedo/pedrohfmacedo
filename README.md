@@ -30,6 +30,7 @@
 ### GitHub Stats
 <div>
   <a href="https://github.com/pedrohfmacedo">
-  <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api?username=pedrohfmacedo&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api/top-langs/?username=pedrohfmacedo&layout=compact&langs_count=7&theme=dark"></a>
+    <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api?username=pedrohfmacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api/top-langs/?username=pedrohfmacedo&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
