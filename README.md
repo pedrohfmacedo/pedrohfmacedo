@@ -27,7 +27,7 @@
   </a>
 </div>
 
-### GitHub Stats
+## GitHub Stats
 <div>
   <a href="https://github.com/pedrohfmacedo">
     <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api?username=pedrohfmacedo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
