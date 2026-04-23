@@ -2,7 +2,7 @@
 - Hi, I'm Pedro Macêdo, an Electrical Engineering student at UFCG. I am currently part of the CI-EXPERT residency program by SOFTEX, in the UVM track and member Northeast Microelectronics Excellence Laboratory (XMEN).
 - I have also worked as a PDI student at the XMEN Laboratory at UFCG.
 - My interests include digital hardware design and verification for SoCs and ASICs, as well as bus integration (AXI, OBI, Wishbone).
-- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/opedromacedo/ and contact me:pedro.henrique.macedo@ee.ufcg.edu.br
+- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/opedromacedo/ and contact me: pedro.henrique.macedo@ee.ufcg.edu.br
 - My Personal blog: working...
   
 ## Tech Stack:
