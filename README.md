@@ -20,6 +20,7 @@
 ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge)
 ![Synopsys](https://img.shields.io/badge/Synopsys-003366?style=for-the-badge)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-2C3E50?style=for-the-badge&logo=verilog&logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA%20Playground-1E88E5?style=for-the-badge&logoColor=white)
 
 ## Licenses and Certifications
 <div style="display: inline_block">
